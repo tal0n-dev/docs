@@ -5,7 +5,7 @@ coverY: 0
 
 # 🛣️ Roadmap
 
-#### Phase 1: Launch (Q1 2025)
+#### Phase 1: Launch (Q2 2025)
 
 * Release the Telegram Bot with core features:
   * TLDR summaries
