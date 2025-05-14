@@ -30,7 +30,7 @@ coverY: 0
 * **Libraries:**
   * <mark style="color:green;">python-telegram-bot</mark> for Telegram integration
   * <mark style="color:green;">PyGithub</mark> for GitHub API interaction
-  * <mark style="color:green;">OpenAI</mark> for advanced natural language processing
+  * <mark style="color:green;">DeepSeek</mark> for advanced natural language processing
 
 #### Key Metrics Evaluated
 
